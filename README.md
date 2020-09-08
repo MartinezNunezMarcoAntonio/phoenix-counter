@@ -1,5 +1,7 @@
 # Counter
 
+It use sockets by LiveView from [LiveView](https://github.com/phoenixframework/phoenix_live_view).
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
