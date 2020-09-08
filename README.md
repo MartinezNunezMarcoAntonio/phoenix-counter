@@ -1,6 +1,6 @@
 # Live Counter 
 
-It use sockets by LiveView from [LiveView](https://github.com/phoenixframework/phoenix_live_view).
+This project uses sockets by LiveView from [LiveView](https://github.com/phoenixframework/phoenix_live_view).
 
 To start your Phoenix server:
 
